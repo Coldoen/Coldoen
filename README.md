@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coldoen
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning OOP & Network Computing 
 - 💞️ I’m looking to collaborate on X
