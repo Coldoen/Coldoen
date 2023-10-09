@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Web Dev 
+- 🌱 I’m currently learning Web Dev & PHP
 - 💞️ I’m looking to collaborate on X
 - 📫 How to reach me : Coldoen#4006 (Discord)
 
